@@ -2,7 +2,7 @@
 # Hi, I'm Satpal! 👋
 
 ## 🚀 About Me
-I'm a self thought Android and Web developer.
+I'm a self taught Android & Web developer.
 
 ## 🛠 Skills
 C, C++, Java, Python, Javascript, HTML, CSS, Firebase...
