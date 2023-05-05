@@ -8,9 +8,10 @@ I'm a self taught Android & Web developer.
 C, C++, Java, Python, Javascript, HTML, CSS, Firebase...
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://satpalkumarofficial.github.io/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-fff?style=for-the-badge&logo=ko-fi&logoColor=purple)](https://satpalkumarofficial.github.io/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satpalkumarofficial/)
+[![linkedin](https://img.shields.io/badge/linkedin-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/satpalkumarofficial/)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tweetatsatpal/)
+[![twitter](https://img.shields.io/badge/twitter-fff?style=for-the-badge&logo=twitter&logoColor=?)](https://twitter.com/tweetatsatpal/)
 
+[![instagram](https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram&logoColor=?)](https://www.instagram.com/satpalkumarofficial/)
