@@ -2,7 +2,7 @@
 # Hi, I'm Satpal! 👋
 
 ## 🚀 About Me
-I'm a Computer Science student persuing MS.c AI and a self taught Android & Web developer.
+I'm a Computer Science student persuing MS.c Artificial Intelligence and a self taught Android & Web developer.
 
 ## 🛠 Skills
 C, C++, Java, Python, JavaScript, HTML, CSS, Firebase...
