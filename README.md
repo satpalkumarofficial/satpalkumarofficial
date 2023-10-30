@@ -2,10 +2,10 @@
 # Hi, I'm Satpal! 👋
 
 ## 🚀 About Me
-I'm a self taught Android & Web developer.
+I'm a Computer Science student persuing MS.c AI and a self taught Android & Web developer.
 
 ## 🛠 Skills
-C, C++, Java, Python, Javascript, HTML, CSS, Firebase...
+C, C++, Java, Python, JavaScript, HTML, CSS, Firebase...
 
 ## 🔗 Links
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-fff?style=for-the-badge&logo=ko-fi&logoColor=purple)](https://satpalkumarofficial.github.io/) -->
